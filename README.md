@@ -23,19 +23,19 @@
 
 ---
 
-## 🧠 About me
+##  About me !!
 
 I'm an AI Engineer who likes getting LLMs to do real, useful work — orchestrating agents, fine-tuning models, and wiring everything to the tools it needs to be useful.
 
-- 🛡️ I build **SOC agents** that autonomously investigate security tickets, wiring LLMs to real tools via **MCP**.
-- 🔬 I fine-tune models for domain-specific tasks and figure out *which* LLM actually fits the job.
-- 🎬 Off the clock: movies, gaming, and obsessing over the latest hardware drop.
-- 🛠️ I build PCs for fun — picking the parts just hits different.
-- 🤖 Forever trying to keep up with AI — which somehow gets more interesting every week.
+-  I build **SOC agents** that autonomously investigate security tickets, wiring LLMs to real tools via **MCP**.
+-  I fine-tune models for domain-specific tasks and figure out *which* LLM actually fits the job.
+-  Off the clock: movies, gaming, and obsessing over the latest hardware drop.
+-  I build PCs for fun — picking the parts just hits different.
+-  Forever trying to keep up with AI — which somehow gets more interesting every week.
 
 ---
 
-## 🛠️ Tech & Tools
+##  Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,gcp,git,linux,fastapi&theme=dark" alt="skill icons" />
@@ -54,9 +54,9 @@ I'm an AI Engineer who likes getting LLMs to do real, useful work — orchestrat
 
 ---
 
-## 🗂️ What I'm building
+## What I'm building
 
-Most of what I make lives in my repos — Arabic NLP and word embeddings, LLM agents, computer-vision experiments, and whatever I'm tinkering with next. Have a dig around; there's usually something brewing.
+Most of what I make lives in my repos, Arabic NLP and word embeddings, LLM agents, computer-vision experiments, and whatever I'm tinkering with next. Have a dig around; there's usually something brewing.
 
 ➡️ **[Browse my repositories »](https://github.com/Obadahamdan1?tab=repositories)**
 
@@ -69,6 +69,6 @@ Most of what I make lives in my repos — Arabic NLP and word embeddings, LLM ag
 <br/>
 
 
-<sub>have a nice day ›3</sub>
+<sub>have a nice day ›3 Dont forget to connect !!</sub>
 
 </div>
