@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Obada+%F0%9F%91%8B;AI+Engineer+%40+NourNet;LLM+Orchestration+%C2%B7+NLP+%C2%B7+AI+Agents;Building+agents+that+solve+real+problems&font=JetBrains+Mono&weight=600&size=26&pause=1000&color=5FE3C0&center=true&vCenter=true&width=620&height=70" alt="typing banner" />
 </a>
 
-### AI Engineer · Amman, Jordan 🇯🇴
+### AI Engineer · Amman, Jordan 
 
 <a href="https://www.linkedin.com/in/obada-hamdan-6b5444323">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -68,7 +68,6 @@ Most of what I make lives in my repos — Arabic NLP and word embeddings, LLM ag
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Obadahamdan1&label=Profile%20views&color=5FE3C0&style=flat" alt="profile views" />
 
 <sub>have a nice day ›3</sub>
 
