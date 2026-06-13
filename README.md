@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Email-5FE3C0?style=for-the-badge&logo=gmail&logoColor=0A0F1C" alt="Email" />
 </a>
 <a href="https://obadahamdan.page">
-  <img src="https://img.shields.io/badge/Portfolio-0A0F1C?style=for-the-badge&logo=vercel&logoColor=5FE3C0" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-obadahamdan.page-5FE3C0?style=for-the-badge&labelColor=0A0F1C" alt="Portfolio" />
 </a>
 
 </div>
