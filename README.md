@@ -25,21 +25,12 @@
 
 ## 🧠 About me
 
-```python
-class Obada:
-    def __init__(self):
-        self.role     = "AI Engineer Intern @ NourNet"
-        self.location = "Amman, Jordan"
-        self.focus    = ["LLM orchestration", "model fine-tuning", "AI agents"]
-        self.currently = "building SOC agents that investigate tickets on their own"
-
-    def fun_fact(self):
-        return "I build PCs for fun — picking the parts just hits different."
-```
+I'm an AI Engineer who likes getting LLMs to do real, useful work — orchestrating agents, fine-tuning models, and wiring everything to the tools it needs to be useful.
 
 - 🛡️ I build **SOC agents** that autonomously investigate security tickets, wiring LLMs to real tools via **MCP**.
 - 🔬 I fine-tune models for domain-specific tasks and figure out *which* LLM actually fits the job.
 - 🎬 Off the clock: movies, gaming, and obsessing over the latest hardware drop.
+- 🛠️ I build PCs for fun — picking the parts just hits different.
 - 🤖 Forever trying to keep up with AI — which somehow gets more interesting every week.
 
 ---
@@ -63,28 +54,17 @@ class Obada:
 
 ---
 
-## 📊 GitHub in numbers
+## 🗂️ What I'm building
 
-<div align="center">
+Most of what I make lives in my repos — Arabic NLP and word embeddings, LLM agents, computer-vision experiments, and whatever I'm tinkering with next. Have a dig around; there's usually something brewing.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Obadahamdan1&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=5FE3C0&icon_color=4ADE80&text_color=E8EEF7" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obadahamdan1&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=5FE3C0&text_color=E8EEF7" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com/?user=Obadahamdan1&hide_border=true&background=0A0F1C&stroke=1E2A40&ring=5FE3C0&fire=4ADE80&currStreakLabel=5FE3C0&sideLabels=E8EEF7&dates=8593AC&currStreakNum=E8EEF7&sideNums=E8EEF7" alt="streak" />
-
-</div>
-
----
-
-## 🔭 Featured project
-
-**[Root-Pattern Chemistry](https://github.com/Obadahamdan1/Root-Pattern-Chemistry-Modeling-Arabic-Morphological-Interactions-for-Word-Embeddings)** — morphology-aware Arabic word embeddings that decompose each word into root, pattern, and affixes, fuse them with a character-CNN, and train with Skip-Gram negative sampling. `PyTorch` · `CAMeL Tools` · `NLP`
+➡️ **[Browse my repositories »](https://github.com/Obadahamdan1?tab=repositories)**
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="code rain gif" />
+<img src="https://media.giphy.com/media/xUOxf9ellv3muKAFTa/giphy.gif" width="440" alt="Interstellar" />
 
 <br/>
 
