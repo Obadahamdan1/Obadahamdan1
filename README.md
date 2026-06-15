@@ -27,7 +27,7 @@
 
 I'm an AI Engineer who likes getting LLMs to do real, useful work — orchestrating agents, fine-tuning models, and wiring everything to the tools it needs to be useful.
 
--  I build **AI agents** that autonomously investigate security tickets, wiring LLMs to real tools via **MCP**.
+-  I build **AI agents** like SOC Agents that autonomously investigate security tickets, also wiring LLMs to real tools via **MCP**.
 -  I fine-tune models for domain-specific tasks and figure out *which* LLM actually fits the job.
 -  Off the clock: movies, gaming, and obsessing over the latest hardware drop.
 -  I build PCs for fun .
